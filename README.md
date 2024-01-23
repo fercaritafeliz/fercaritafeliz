@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://mx.linkedin.com/in/fernando-s%C3%A1nchez-ortega-b58665203/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href=""https://mx.linkedin.com/in/fernando-s%C3%A1nchez-ortega-b58665203">
+    <img src=https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <!--
