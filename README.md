@@ -1,5 +1,9 @@
 ### Hi there 👋
-https://mx.linkedin.com/in/fernando-s%C3%A1nchez-ortega-b58665203/LinkedIn-blue
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://mx.linkedin.com/in/fernando-s%C3%A1nchez-ortega-b58665203/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <!--
 **fercaritafeliz/fercaritafeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
