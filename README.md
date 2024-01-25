@@ -6,9 +6,12 @@
 </div>
 
 ### Proyecto sin fines de lucro
-<a href="https://veterinaria-self.vercel.app/">
-<h3>Página de perros perdidos</h3>
+<div>
+  <a href="https://veterinaria-self.vercel.app/">
+<h4>Página de perros perdidos</h4>
 </a>
+</div>
+
 <!--
 **fercaritafeliz/fercaritafeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
