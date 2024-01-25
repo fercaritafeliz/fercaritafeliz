@@ -8,7 +8,7 @@
 ### Proyecto sin fines de lucro
 <div>
   <a href="https://veterinaria-self.vercel.app/">
-<h4>Página de perros perdidos</h4>
+Página de perros perdidos
 </a>
 </div>
 
