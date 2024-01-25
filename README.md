@@ -14,7 +14,7 @@ aqui enlaces a cosas que he realizado en las distintas tecnologias que se utiliz
 Página de perros perdidos
 </a>
   <br/>
-  <a href="https://fercaritafeliz.pythonanywhere.com/">un front basico en flask</a>
+  <a href="https://fercaritafeliz.pythonanywhere.com/">un front basico en flask contiene un juego en unity (de lo mas basico)</a>
 </div>
 
 
