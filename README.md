@@ -1,34 +1,19 @@
-<h1>Hola 😃, Bienvenido</h1>
-aqui enlaces a cosas que he realizado en las distintas tecnologias que se utilizar
+# 👋 ¡Hola! Bienvenido a mi perfil
 
-### enlaces a perfil profesional
+Aquí encontrarás algunos proyectos y ejemplos de las tecnologías que manejo.
+
+## 🌐 Perfiles profesionales
 <div id="badges">
-  <a href="https://mx.linkedin.com/in/fernando-s%C3%A1nchez-ortega-b58665203">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://mx.linkedin.com/in/fernando-s%C3%A1nchez-ortega-b58665203" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-### Proyecto sin fines de lucro
-<div>
-  <a href="https://veterinaria-self.vercel.app/">
-Página de perros perdidos
-</a>
-  <br/>
-  <a href="https://fercaritafeliz.pythonanywhere.com/">un front basico en flask contiene un juego en unity (de lo mas basico)</a>
-</div>
+## 🚀 Proyectos sin fines de lucro
 
+- [Página de perros perdidos](https://veterinaria-self.vercel.app/)
+- [Demo de restaurante](https://restaurant.mistli.com.mx/)
+- [Demo tienda de guitarras (Context API)](https://guitar-la-tawny.vercel.app/)
+- [Presentación de tecnologías que manejo](https://presentacion-formal.vercel.app/)
 
-<!--
-**fercaritafeliz/fercaritafeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
